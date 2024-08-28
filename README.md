@@ -1,3 +1,6 @@
+#important note
+to start this full stack project we need to install two nodemodule one in backend folder and another is react project folder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
